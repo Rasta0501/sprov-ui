@@ -1,5 +1,5 @@
-# sprov-ui
- 一个支持多协议多用户的v2ray Web面板
+
+
  
 # 详细教程
 https://blog.sprov.xyz/2019/02/09/sprov-ui/
@@ -26,7 +26,7 @@ https://blog.sprov.xyz/2019/02/09/sprov-ui/
  - ws + 伪装 + tls
  - http/2 + 伪装 + tls
  
-# 运行截图
+# 运行
 ![1.png](1.png)
 ![2.png](2.png)
 
